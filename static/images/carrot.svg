@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" rx="20" fill="#f8fafc"/>
+  <circle cx="120" cy="120" r="80" fill="#ecfccb"/>
+  <text x="200" y="140" font-size="40" font-family="Arial, Helvetica, sans-serif" fill="#065f46">Carrot</text>
+  <text x="200" y="200" font-size="22" fill="#374151">Fresh & Quality</text>
+</svg>
